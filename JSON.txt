@@ -1,0 +1,947 @@
+﻿{
+  "personDetails": [
+    {
+      "personId": "1",
+      "teamId": "1",
+      "teamName": "Sarma",
+      "name": "Surya",
+      "date": "10Oct2018",
+      "personStatus": [
+        {
+          "stage": "1",
+          "date": "10thOct20188:00PM"
+        },
+        {
+          "stage": "2",
+          "date": "10thOct201810:00PM"
+        },
+        {
+          "stage": "3",
+          "date": "10thOct201811:00PM"
+        }
+      ]
+    },
+    {
+      "personId": "2",
+      "teamId": "2",
+      "teamName": "Chary",
+      "name": "Bhaskara",
+      "date": "11Oct2018",
+      "personStatus": [
+        {
+          "stage": "3",
+          "date": "11Oct201812:00AM"
+        },
+        {
+          "stage": "1",
+          "date": "10thOct201810:00PM"
+        },
+        {
+          "stage": "2",
+          "date": "10thOct201811:00PM"
+        }
+      ]
+    },
+	{
+      "personId": "3",
+      "teamId": "3",
+      "teamName": "Chowdary",
+      "name": "Phani",
+      "date": "12Oct2018",
+      "personStatus": [
+        {
+          "stage": "3",
+          "date": "12Oct201811:48PM"
+        },
+        {
+          "stage": "2",
+          "date": "12Oct201811:15PM"
+        },
+        {
+          "stage": "1",
+          "date": "12Oct201810:00PM"
+        }
+      ]
+    },
+	{
+      "personId": "4",
+      "teamId": "4",
+      "teamName": "Reddy",
+      "name": "Dheeraj",
+      "date": "13Oct2018",
+      "personStatus": [
+        {
+          "stage": "1",
+          "date": "13Oct201810:00PM"
+        },
+        {
+          "stage": "3",
+          "date": "13Oct201811:58PM"
+        },
+        {
+          "stage": "2",
+          "date": "13Oct201810:45PM"
+        }
+      ]
+    },
+	{
+      "personId": "5",
+      "teamId": "5",
+      "teamName": "Naidu",
+      "name": "Naveen",
+      "date": "14Oct2018",
+      "personStatus": [
+        {
+          "stage": "3",
+          "date": "14Oct20187:00PM"
+        },
+        {
+          "stage": "2",
+          "date": "14Oct20186:00PM"
+        },
+        {
+          "stage": "1",
+          "date": "14Oct20185:00PM"
+        }
+      ]
+    },
+	{
+      "personId": "6",
+      "teamId": "6",
+      "teamName": "Shetty",
+      "name": "Anushka",
+      "date": "15Oct2018",
+      "personStatus": [
+        {
+          "stage": "1",
+          "date": "15Oct20181:00PM"
+        },
+        {
+          "stage": "2",
+          "date": "15Oct20182:00PM"
+        },
+        {
+          "stage": "3",
+          "date": "15Oct20183:00PM"
+        }
+      ]
+    },
+	{
+      "personId": "7",
+      "teamId": "7",
+      "teamName": "John",
+      "name": "Paul",
+      "date": "16Oct2018",
+      "personStatus": [
+        {
+          "stage": "3",
+          "date": "16Oct201811:11PM"
+        },
+        {
+          "stage": "1",
+          "date": "16Oct201808:00PM"
+        },
+        {
+          "stage": "2",
+          "date": "16Oct201809:00PM"
+        }
+      ]
+    },
+	{
+      "personId": "8",
+      "teamId": "8",
+      "teamName": "Brett",
+      "name": "Web",
+      "date": "17Oct2018",
+      "personStatus": [
+        {
+          "stage": "2",
+          "date": "17Oct201811:00PM"
+        },
+        {
+          "stage": "3",
+          "date": "17Oct201811:10PM"
+        },
+        {
+          "stage": "1",
+          "date": "17Oct201810:02PM"
+        }
+      ]
+    },
+	{
+      "personId": "1",
+      "teamId": "1",
+      "teamName": "Heros",
+      "name": "name",
+      "date": "10Oct2018",
+      "personStatus": [
+        {
+          "stage": "1",
+          "date": "10thOct201810:00PM"
+        },
+        {
+          "stage": "2",
+          "date": "10thOct201810:00PM"
+        },
+        {
+          "stage": "3",
+          "date": "10thOct201810:00PM"
+        }
+      ]
+    },
+	{
+      "personId": "1",
+      "teamId": "1",
+      "teamName": "Heros",
+      "name": "name",
+      "date": "10Oct2018",
+      "personStatus": [
+        {
+          "stage": "1",
+          "date": "10thOct201810:00PM"
+        },
+        {
+          "stage": "2",
+          "date": "10thOct201810:00PM"
+        },
+        {
+          "stage": "3",
+          "date": "10thOct201810:00PM"
+        }
+      ]
+    },
+	{
+      "personId": "1",
+      "teamId": "1",
+      "teamName": "Heros",
+      "name": "name",
+      "date": "10Oct2018",
+      "personStatus": [
+        {
+          "stage": "1",
+          "date": "10thOct201810:00PM"
+        },
+        {
+          "stage": "2",
+          "date": "10thOct201810:00PM"
+        },
+        {
+          "stage": "3",
+          "date": "10thOct201810:00PM"
+        }
+      ]
+    },
+	{
+      "personId": "1",
+      "teamId": "1",
+      "teamName": "Heros",
+      "name": "name",
+      "date": "10Oct2018",
+      "personStatus": [
+        {
+          "stage": "1",
+          "date": "10thOct201810:00PM"
+        },
+        {
+          "stage": "2",
+          "date": "10thOct201810:00PM"
+        },
+        {
+          "stage": "3",
+          "date": "10thOct201810:00PM"
+        }
+      ]
+    },
+	{
+      "personId": "1",
+      "teamId": "1",
+      "teamName": "Heros",
+      "name": "name",
+      "date": "10Oct2018",
+      "personStatus": [
+        {
+          "stage": "1",
+          "date": "10thOct201810:00PM"
+        },
+        {
+          "stage": "2",
+          "date": "10thOct201810:00PM"
+        },
+        {
+          "stage": "3",
+          "date": "10thOct201810:00PM"
+        }
+      ]
+    },
+	{
+      "personId": "1",
+      "teamId": "1",
+      "teamName": "Heros",
+      "name": "name",
+      "date": "10Oct2018",
+      "personStatus": [
+        {
+          "stage": "1",
+          "date": "10thOct201810:00PM"
+        },
+        {
+          "stage": "2",
+          "date": "10thOct201810:00PM"
+        },
+        {
+          "stage": "3",
+          "date": "10thOct201810:00PM"
+        }
+      ]
+    },
+	{
+      "personId": "1",
+      "teamId": "1",
+      "teamName": "Heros",
+      "name": "name",
+      "date": "10Oct2018",
+      "personStatus": [
+        {
+          "stage": "1",
+          "date": "10thOct201810:00PM"
+        },
+        {
+          "stage": "2",
+          "date": "10thOct201810:00PM"
+        },
+        {
+          "stage": "3",
+          "date": "10thOct201810:00PM"
+        }
+      ]
+    },
+	{
+      "personId": "1",
+      "teamId": "1",
+      "teamName": "Heros",
+      "name": "name",
+      "date": "10Oct2018",
+      "personStatus": [
+        {
+          "stage": "1",
+          "date": "10thOct201810:00PM"
+        },
+        {
+          "stage": "2",
+          "date": "10thOct201810:00PM"
+        },
+        {
+          "stage": "3",
+          "date": "10thOct201810:00PM"
+        }
+      ]
+    },
+	{
+      "personId": "1",
+      "teamId": "1",
+      "teamName": "Heros",
+      "name": "name",
+      "date": "10Oct2018",
+      "personStatus": [
+        {
+          "stage": "1",
+          "date": "10thOct201810:00PM"
+        },
+        {
+          "stage": "2",
+          "date": "10thOct201810:00PM"
+        },
+        {
+          "stage": "3",
+          "date": "10thOct201810:00PM"
+        }
+      ]
+    },
+	{
+      "personId": "1",
+      "teamId": "1",
+      "teamName": "Heros",
+      "name": "name",
+      "date": "10Oct2018",
+      "personStatus": [
+        {
+          "stage": "1",
+          "date": "10thOct201810:00PM"
+        },
+        {
+          "stage": "2",
+          "date": "10thOct201810:00PM"
+        },
+        {
+          "stage": "3",
+          "date": "10thOct201810:00PM"
+        }
+      ]
+    },
+	{
+      "personId": "1",
+      "teamId": "1",
+      "teamName": "Heros",
+      "name": "name",
+      "date": "10Oct2018",
+      "personStatus": [
+        {
+          "stage": "1",
+          "date": "10thOct201810:00PM"
+        },
+        {
+          "stage": "2",
+          "date": "10thOct201810:00PM"
+        },
+        {
+          "stage": "3",
+          "date": "10thOct201810:00PM"
+        }
+      ]
+    },
+	{
+      "personId": "1",
+      "teamId": "1",
+      "teamName": "Heros",
+      "name": "name",
+      "date": "10Oct2018",
+      "personStatus": [
+        {
+          "stage": "1",
+          "date": "10thOct201810:00PM"
+        },
+        {
+          "stage": "2",
+          "date": "10thOct201810:00PM"
+        },
+        {
+          "stage": "3",
+          "date": "10thOct201810:00PM"
+        }
+      ]
+    },
+	{
+      "personId": "1",
+      "teamId": "1",
+      "teamName": "Heros",
+      "name": "name",
+      "date": "10Oct2018",
+      "personStatus": [
+        {
+          "stage": "1",
+          "date": "10thOct201810:00PM"
+        },
+        {
+          "stage": "2",
+          "date": "10thOct201810:00PM"
+        },
+        {
+          "stage": "3",
+          "date": "10thOct201810:00PM"
+        }
+      ]
+    },
+	{
+      "personId": "1",
+      "teamId": "1",
+      "teamName": "Heros",
+      "name": "name",
+      "date": "10Oct2018",
+      "personStatus": [
+        {
+          "stage": "1",
+          "date": "10thOct201810:00PM"
+        },
+        {
+          "stage": "2",
+          "date": "10thOct201810:00PM"
+        },
+        {
+          "stage": "3",
+          "date": "10thOct201810:00PM"
+        }
+      ]
+    },
+	{
+      "personId": "1",
+      "teamId": "1",
+      "teamName": "Heros",
+      "name": "name",
+      "date": "10Oct2018",
+      "personStatus": [
+        {
+          "stage": "1",
+          "date": "10thOct201810:00PM"
+        },
+        {
+          "stage": "2",
+          "date": "10thOct201810:00PM"
+        },
+        {
+          "stage": "3",
+          "date": "10thOct201810:00PM"
+        }
+      ]
+    },
+	{
+      "personId": "1",
+      "teamId": "1",
+      "teamName": "Heros",
+      "name": "name",
+      "date": "10Oct2018",
+      "personStatus": [
+        {
+          "stage": "1",
+          "date": "10thOct201810:00PM"
+        },
+        {
+          "stage": "2",
+          "date": "10thOct201810:00PM"
+        },
+        {
+          "stage": "3",
+          "date": "10thOct201810:00PM"
+        }
+      ]
+    },
+	{
+      "personId": "1",
+      "teamId": "1",
+      "teamName": "Heros",
+      "name": "name",
+      "date": "10Oct2018",
+      "personStatus": [
+        {
+          "stage": "1",
+          "date": "10thOct201810:00PM"
+        },
+        {
+          "stage": "2",
+          "date": "10thOct201810:00PM"
+        },
+        {
+          "stage": "3",
+          "date": "10thOct201810:00PM"
+        }
+      ]
+    },
+	{
+      "personId": "1",
+      "teamId": "1",
+      "teamName": "Heros",
+      "name": "name",
+      "date": "10Oct2018",
+      "personStatus": [
+        {
+          "stage": "1",
+          "date": "10thOct201810:00PM"
+        },
+        {
+          "stage": "2",
+          "date": "10thOct201810:00PM"
+        },
+        {
+          "stage": "3",
+          "date": "10thOct201810:00PM"
+        }
+      ]
+    },
+	{
+      "personId": "1",
+      "teamId": "1",
+      "teamName": "Heros",
+      "name": "name",
+      "date": "10Oct2018",
+      "personStatus": [
+        {
+          "stage": "1",
+          "date": "10thOct201810:00PM"
+        },
+        {
+          "stage": "2",
+          "date": "10thOct201810:00PM"
+        },
+        {
+          "stage": "3",
+          "date": "10thOct201810:00PM"
+        }
+      ]
+    },
+	{
+      "personId": "1",
+      "teamId": "1",
+      "teamName": "Heros",
+      "name": "name",
+      "date": "10Oct2018",
+      "personStatus": [
+        {
+          "stage": "1",
+          "date": "10thOct201810:00PM"
+        },
+        {
+          "stage": "2",
+          "date": "10thOct201810:00PM"
+        },
+        {
+          "stage": "3",
+          "date": "10thOct201810:00PM"
+        }
+      ]
+    },
+	{
+      "personId": "16",
+      "teamId": "16",
+      "teamName": "Mathew",
+      "name": "Hayden",
+      "date": "19Oct2018",
+      "personStatus": [
+        {
+          "stage": "1",
+          "date": "9thOct201810:00PM"
+        },
+        {
+          "stage": "2",
+          "date": "10thOct201810:00AM"
+        },
+        {
+          "stage": "3",
+          "date": "15thOct201810:00PM"
+		  {
+      "personId": "17",
+      "teamId": "17",
+      "teamName": "Kemp",
+      "name": "Rex",
+      "date": "16Oct2018",
+      "personStatus": [
+        {
+          "stage": "3",
+          "date": "16thOct201810:00PM"
+        },
+        {
+          "stage": "2",
+          "date": "13thOct201810:00AM"
+        },
+        {
+          "stage": "1",
+          "date": "10thOct201810:00PM"
+        }
+      ]
+    },
+	{
+      "personId": "18",
+      "teamId": "18",
+      "teamName": "Kumar",
+      "name": "Pravin",
+      "date": "18Oct2018",
+      "personStatus": [
+        {
+          "stage": "1",
+          "date": "10thOct201810:00PM"
+        },
+        {
+          "stage": "2",
+          "date": "12thOct201810:00PM"
+        },
+        {
+          "stage": "3",
+          "date": "18thOct201810:00PM"
+        }
+      ]
+    },
+	{
+      "personId": "19",
+      "teamId": "19",
+      "teamName": "Malik",
+      "name": "Ahmed",
+      "date": "11Oct2018",
+      "personStatus": [
+        {
+          "stage": "3",
+          "date": "11thOct201810:00PM"
+        },
+        {
+          "stage": "2",
+          "date": "10thOct201808:00PM"
+        },
+        {
+          "stage": "1",
+          "date": "10thOct201810:00AM"
+        }
+      ]
+    },
+	{
+      "personId": "20",
+      "teamId": "20",
+      "teamName": "Gruvman",
+      "name": "Stella",
+      "date": "11Oct2018",
+      "personStatus": [
+        {
+          "stage": "1",
+          "date": "05thOct201811:00PM"
+        },
+        {
+          "stage": "2",
+          "date": "10thOct201810:00PM"
+        },
+        {
+          "stage": "3",
+          "date": "11thOct201810:00PM"
+        }
+      ]
+    },
+	{
+      "personId": "21",
+      "teamId": "21",
+      "teamName": "Garg",
+      "name": "Arshit",
+      "date": "11Oct2018",
+      "personStatus": [
+        {
+          "stage": "3",
+          "date": "11thOct201810:00PM"
+        },
+        {
+          "stage": "2",
+          "date": "10thOct201810:00PM"
+        },
+        {
+          "stage": "1",
+          "date": "10thOct201812:00AM"
+        }
+      ]
+    },
+	{
+      "personId": "22",
+      "teamId": "22",
+      "teamName": "Babal",
+      "name": "Singh",
+      "date": "11Oct2018",
+      "personStatus": [
+        {
+          "stage": "3",
+          "date": "11thOct201810:00PM"
+        },
+        {
+          "stage": "1",
+          "date": "10thOct201810:00PM"
+        },
+        {
+          "stage": "2",
+          "date": "10thOct201811:00PM"
+        }
+      ]
+    },{
+      "personId": "23",
+      "teamId": "23",
+      "teamName": "Russo",
+      "name": "Grace",
+      "date": "11Oct2018",
+      "personStatus": [
+        {
+          "stage": "3",
+          "date": "11thOct201810:00PM"
+        },
+        {
+          "stage": "2",
+          "date": "10thOct201810:00PM"
+        },
+        {
+          "stage": "1",
+          "date": "10thOct201808:00PM"
+        }
+      ]
+    },{
+      "personId": "24",
+      "teamId": "24",
+      "teamName": "Hayden",
+      "name": "Laura",
+      "date": "12Oct2018",
+      "personStatus": [
+        {
+          "stage": "1",
+          "date": "10thOct201810:00PM"
+        },
+        {
+          "stage": "3",
+          "date": "12thOct201810:00PM"
+        },
+        {
+          "stage": "2",
+          "date": "11thOct201810:00PM"
+        }
+      ]
+    },
+	{
+      "personId": "25",
+      "teamId": "25",
+      "teamName": "Russell",
+      "name": "Mike",
+      "date": "14Oct2018",
+      "personStatus": [
+        {
+          "stage": "2",
+          "date": "12thOct201810:00PM"
+        },
+        {
+          "stage": "1",
+          "date": "10thOct201810:00PM"
+        },
+        {
+          "stage": "3",
+          "date": "14thOct201810:00PM"
+        }
+      ]
+    },
+	{
+      "personId": "26",
+      "teamId": "26",
+      "teamName": "Kelly",
+      "name": "Cultrara",
+      "date": "11Oct2018",
+      "personStatus": [
+        {
+          "stage": "1",
+          "date": "10thOct201808:00PM"
+        },
+        {
+          "stage": "2",
+          "date": "10thOct201811:00PM"
+        },
+        {
+          "stage": "3",
+          "date": "11thOct201801:00AM"
+        }
+      ]
+    },
+	{
+      "personId": "27",
+      "teamId": "27",
+      "teamName": "Stanley",
+      "name": "Morgan",
+      "date": "11Oct2018",
+      "personStatus": [
+        {
+          "stage": "3",
+          "date": "11thOct201812:00AM"
+        },
+        {
+          "stage": "1",
+          "date": "10thOct201805:00PM"
+        },
+        {
+          "stage": "2",
+          "date": "10thOct201810:00PM"
+        }
+      ]
+    },
+	{
+      "personId": "28",
+      "teamId": "28",
+      "teamName": "Freeman",
+      "name": "Morgan",
+      "date": "11Oct2018",
+      "personStatus": [
+        {
+          "stage": "1",
+          "date": "10thOct201808:00PM"
+        },
+        {
+          "stage": "2",
+          "date": "10thOct201811:30PM"
+        },
+        {
+          "stage": "3",
+          "date": "11thOct201809:00PM"
+        }
+      ]
+    },
+	{
+      "personId": "29",
+      "teamId": "29",
+      "teamName": "Rose",
+      "name": "Lancelot",
+      "date": "10Oct2018",
+      "personStatus": [
+        {
+          "stage": "1",
+          "date": "5thOct201810:00PM"
+        },
+        {
+          "stage": "3",
+          "date": "10thOct201810:00PM"
+        },
+        {
+          "stage": "2",
+          "date": "10thOct201808:00PM"
+        }
+      ]
+    },
+	{
+      "personId": "30",
+      "teamId": "30",
+      "teamName": "Smith",
+      "name": "Dan",
+      "date": "11Oct2018",
+      "personStatus": [
+        {
+          "stage": "2",
+          "date": "10thOct201810:00PM"
+        },
+        {
+          "stage": "1",
+          "date": "1stOct201810:00PM"
+        },
+        {
+          "stage": "3",
+          "date": "11thOct201810:00PM"
+        }
+      ]
+    },
+	
+        }
+      ]
+    },
+	{
+      "personId": "31",
+      "teamId": "31",
+      "teamName": "Gates",
+      "name": "Bill",
+      "date": "10Oct2018",
+      "personStatus": [
+        {
+          "stage": "3",
+          "date": "13thOct201810:00PM"
+        },
+        {
+          "stage": "2",
+          "date": "12thOct201810:00PM"
+        },
+        {
+          "stage": "3",
+          "date": "10thOct201810:00PM"
+        }
+      ]
+    },
+	{
+      "personId": "32",
+      "teamId": "32",
+      "teamName": "Shin",
+      "name": "John",
+      "date": "13Oct2018",
+      "personStatus": [
+        {
+          "stage": "1",
+          "date": "12thOct20187:00PM"
+        },
+        {
+          "stage": "3",
+          "date": "13thOct201801:00AM"
+        },
+        {
+          "stage": "2",
+          "date": "12thOct201810:00PM"
+        }
+      ]
+    },
+	
